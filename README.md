@@ -12,7 +12,7 @@ This repository contains the datasets, analysis files, and supplementary materia
 The repository includes:
 
 - Processed datasets used in the study
-- Supplementary figures, files and tables
+- Supplementary files and tables
 
 ## Data Availability Statement
 
